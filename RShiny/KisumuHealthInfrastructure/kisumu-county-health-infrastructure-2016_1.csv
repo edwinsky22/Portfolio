@@ -1,0 +1,33 @@
+TierOfCare,TypeOfInfrastructure,Provider,NumberOfFunctionalInfrastructure,Date
+Primary Care facilities,Facilities,Public,102,6/30/2016
+Primary Care facilities,Beds,Public,651,6/30/2016
+Primary Care facilities,Functional Community Units,Public,144,6/30/2016
+Primary Care facilities,Functional management committee’s,Public,109,6/30/2016
+Primary Care facilities,Facilities,Faith Based Organization,10,6/30/2016
+Primary Care facilities,Beds,Faith Based Organization,211,6/30/2016
+Primary Care facilities,Functional Community Units,Faith Based Organization,5,6/30/2016
+Primary Care facilities,Functional management committee’s,Faith Based Organization,8,6/30/2016
+Primary Care facilities,Facilities,Non-Government Organization,10,6/30/2016
+Primary Care facilities,Beds,Non-Government Organization,11,6/30/2016
+Primary Care facilities,Functional Community Units,Non-Government Organization,1,6/30/2016
+Primary Care facilities,Functional management committee’s,Non-Government Organization,1,6/30/2016
+Primary Care facilities,Facilities,Private,51,6/30/2016
+Primary Care facilities,Beds,Private,206,6/30/2016
+Primary Care facilities,Functional Community Units,Private,5,6/30/2016
+Primary Care facilities,Functional management committee’s,Private,9,6/30/2016
+Referral Facilities,Facilities,Public,18,6/30/2016
+Referral Facilities,Beds,Public,1313,6/30/2016
+Referral Facilities,Functional Community Units,Public,32,6/30/2016
+Referral Facilities,Functional Hospital boards,Public,19,6/30/2016
+Referral Facilities,Facilities,Faith Based Organization,4,6/30/2016
+Referral Facilities,Beds,Faith Based Organization,150,6/30/2016
+Referral Facilities,Functional Community Units,Faith Based Organization,2,6/30/2016
+Referral Facilities,Functional Hospital boards,Faith Based Organization,2,6/30/2016
+Referral Facilities,Facilities,Non-Government Organization,0,6/30/2016
+Referral Facilities,Beds,Non-Government Organization,0,6/30/2016
+Referral Facilities,Functional Community Units,Non-Government Organization,0,6/30/2016
+Referral Facilities,Functional Hospital boards,Non-Government Organization,0,6/30/2016
+Referral Facilities,Facilities,Private,6,6/30/2016
+Referral Facilities,Beds,Private,268,6/30/2016
+Referral Facilities,Functional Community Units,Private,0,6/30/2016
+Referral Facilities,Functional Hospital boards,Private,0,6/30/2016
