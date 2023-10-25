@@ -1,4 +1,3 @@
-setwd("C:/Users/Edwin/Documents/R Projects/Rshiny/KisumuHealthInfrastructure")
 library("shiny")
 library("tidyverse")
 library(scales)
